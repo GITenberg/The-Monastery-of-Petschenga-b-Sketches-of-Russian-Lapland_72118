@@ -5,6 +5,9 @@ contributor:
     agent_name: Repp, Hill
     gutenberg_agent_id: '56547'
     url: http://www.gutenberg.org/2009/agents/56547
+covers:
+- cover_type: archival
+  image_path: 72118-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Friis, J. A. (Jens Andreas)
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '36443'
     url: http://www.gutenberg.org/2009/agents/36443
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72118#The-Monastery-of-Petschenga-b-Sketches-of-Russian-Lapland
 gutenberg_issued: '2023-11-13'
 identifiers:
   gutenberg: '72118'
